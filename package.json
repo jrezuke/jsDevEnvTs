@@ -1,0 +1,17 @@
+{
+  "name": "js_dev_env",
+  "version": "1.0.0",
+  "description": "a minimum js dev env",
+  "repository": {
+    
+  },
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  },
+  "author": "'Joe_Rezuke'",
+  "license": "ISC",
+  "devDependencies": {    
+    "express": "^4.15.2",
+    "open": "0.0.5"
+  }
+}
